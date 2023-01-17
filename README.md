@@ -12,7 +12,7 @@ This provides an overview of the analysis of fraudulent transactions in a credit
 
 #### Transaction under $2.00 on Credit Cards
 
-!NNo_of_Trns_less_than_2.png
+![Tech Image](https://github.com/KSohi-max/Fraud_Detection/blob/main/Images/No_of_Trns_less_than_2.png)
 
 In reviewing the data from the database, it is clear that at least 25 cardholders have had transactions of less than $2.00.  Several of them have had significant number of these small transaction, for example, one cardholder has had 26 transactions on their card. But this analysis in itself is not sufficient to reach the conclusion that these credit cards have been hacked. Further deep dive is necessary.
 
