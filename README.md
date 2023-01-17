@@ -40,7 +40,7 @@ Also, it may be prudent to ensure that cardholders regularly check their transac
 
 Please see conclusions on this analysis in the Jupyter Notebook:
 
-![visual_data_analysis.ipynb](https://github.com/KSohi-max/Fraud_Detection/blob/main/visual_data_analysis.ipynb)
+[visual_data_analysis.ipynb](https://github.com/KSohi-max/Fraud_Detection/blob/main/visual_data_analysis.ipynb)
 
 ##### What difference do you observe between the consumption patterns? Does the difference suggest a fraudulent transaction? Explain your rationale in the markdown report.
 
